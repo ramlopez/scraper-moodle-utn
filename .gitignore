@@ -4,6 +4,10 @@
 # Archivos de configuración de IDEs
 *.code-workspace
 
+# Archivo de config del scraper
+config.json
+
+
 # ------------------------------------------------------------------------------
 ## Plantila de .gitignore de GitHub para Python
 
