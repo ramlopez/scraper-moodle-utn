@@ -1,0 +1,16 @@
+{
+    "link_login": "https://<url del campus virtual>/login/index.php",
+    "link_todos_cursos": "https://<url del campus virtual>/my/courses.php",
+    "cursos_a_descargar": [
+        {
+            "nombre": "Nombre exacto del curso en el link de la lista de cursos",
+            "modo": "puede ser 'whitelist', 'blacklist' o 'todo'",
+            "lista": [
+                "Si el modo es whitelist o blacklist entonces",
+                "llenar esta lista con el nombre exacto de las",
+                "secciones a escanear / no escanear",
+                "Si no, se puede dejar vacía"
+            ]
+        }
+    ]
+}
